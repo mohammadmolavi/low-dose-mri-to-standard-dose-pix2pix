@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Low-Dose to Standard-Dose Brain MRI Synthesis Using Pix2Pix
 
 A PyTorch implementation of a conditional Generative Adversarial Network based on **Pix2Pix** for synthesizing standard-dose contrast-enhanced brain MRI images from scans acquired using approximately **20% of the standard gadolinium contrast dose**.
@@ -474,5 +472,3 @@ This implementation is based on the Pix2Pix image-to-image translation framework
 ## Acknowledgment
 
 This project was developed as a research-oriented experiment in conditional generative modeling for reduced-dose contrast-enhanced brain MRI synthesis.
-
->>>>>>> a375aed (docs: add README, notebook, and qualitative MRI synthesis results)
